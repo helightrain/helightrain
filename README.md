@@ -8,22 +8,6 @@
 
 ---
 
-&lt;h3 align="center"&gt;🔬 Research Interest & Long-term Vision&lt;/h3&gt;
-
-&lt;p align="center"&gt;
-  I'm a graduate student in &lt;strong&gt;Accounting&lt;/strong&gt; with a passion for the intersection of &lt;strong&gt;taxation, data analytics, and corporate governance&lt;/strong&gt;. &lt;br&gt;
-  My vision is to leverage big data and AI to enhance financial transparency in emerging markets.
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  🔭 &lt;strong&gt;Current:&lt;/strong&gt; Big Data Tax Collection (Golden Tax Phase III) & Earnings Quality &lt;br&gt;
-  🌱 &lt;strong&gt;Exploring:&lt;/strong&gt; Digital transformation of tax administration, Data asset valuation &lt;br&gt;
-  🎯 &lt;strong&gt;Goal:&lt;/strong&gt; Product Manager / Business Analyst in Internet Giants &lt;br&gt;
-  📫 &lt;strong&gt;Reach me:&lt;/strong&gt; [your.email@example.com](mailto:your.email@example.com)
-&lt;/p&gt;
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Data & Analysis**
