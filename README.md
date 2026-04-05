@@ -56,15 +56,3 @@
 For more details about my research, projects, and CV:  
 👉 **[helightrain.github.io](https://helightrain.github.io)**
 
----
-
-### 🌐 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://helightrain.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-&lt;!-- 底部动态横幅 --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=100&section=footer" /&gt;
-&lt;/p&gt;
