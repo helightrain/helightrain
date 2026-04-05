@@ -42,15 +42,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=helightrain&show_icons=true&theme=vue&hide_border=true&count_private=true" height="160"/&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helightrain&layout=compact&theme=vue&hide_border=true" height="160"/&gt;
-&lt;/p&gt;
-
----
-
 ### 📖 Detailed Portfolio
 
 For more details about my research, projects, and CV:  
