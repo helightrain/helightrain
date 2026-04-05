@@ -1,7 +1,12 @@
-&lt;!-- 顶部动态横幅 --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=200&section=header&text=Helightrain&fontSize=50&fontAlignY=35&animation=twinkling&desc=Accounting%20Researcher%20|%20Data%20Analyst%20|%20PM%20Enthusiast&descAlignY=55&descAlign=50" /&gt;
-&lt;/p&gt;
+<h1 align="center">👋 Hi, I'm Helightrain</h1>
+<h3 align="center">Accounting Researcher | Data Analyst | PM Enthusiast</h3>
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://helightrain.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white"></a>
+</p>
+
+---
 
 &lt;h3 align="center"&gt;🔬 Research Interest & Long-term Vision&lt;/h3&gt;
 
