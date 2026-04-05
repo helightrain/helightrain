@@ -30,13 +30,11 @@
 - Explored substitution effects between accrual-based and real earnings management
 - 📊 Dataset: A-share listed companies (2010-2023)
 
-**💻 ByteDance** | Internal Control Intern
-- Procurement data analysis & risk identification (1.5万+ assets, **¥578M** risk exposure)
-- Cross-BG vendor duplication detection using SQL
-
-**🔍 Baidu** | Content Strategy Intern  
+**🔍 Baidu** | Internal Control Intern
 - Content procurement optimization & vendor management
 - Data cleaning & analysis (6,684 procurement records)
+- Procurement data analysis & risk identification (1.5万+ assets, **¥578M** risk exposure)
+- Cross-BG vendor duplication detection using SQL
 
 **🏆 Honors:** National 2nd Prize in Market Survey Competition | **National Scholarship ×2**
 
